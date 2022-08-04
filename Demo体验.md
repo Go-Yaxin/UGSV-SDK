@@ -141,7 +141,7 @@
             <a style="font-size: 20px;font-weight: bold;">Demo后台源码</a>
 </div>
 	 <div class="demo-item-header">
- <a style="font-size: 12px;">小视频APP（Demo）的后台源码，iOS和Android端通用</a>
+ <a style="font-size: 12px;">小视频APP（Demo）的后台源码</a>
  </div>
        	<a href="https://cloud.tencent.com/document/product/584/15540">集成指引</a>
 				<a style="margin-left: 10px;" href="https://liteav.sdk.qcloud.com/download/ugc/vod-xiaoshipin-server-master.zip">源码ZIP</a>
