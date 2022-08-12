@@ -78,7 +78,7 @@
 </div>
 
 ## 功能版本详情
-使用短视频 SDK 需要购买短视频 License，详情参见 [价格总览](https://cloud.tencent.com/document/product/584/9368)，短视频License分为基础版和高级版，不同版本支持功能如下表。
+使用短视频 SDK 需要购买短视频 License，详情参见 [价格总览](https://cloud.tencent.com/document/product/584/9368)，短视频License分为精简版和基础版，不同版本支持功能如下表。
 
 ！注意：短视频 SDK 仅有一个版本，精简版 License 和 基础版 License 解锁的是同一个短视频 SDK 中的不同功能。
 
