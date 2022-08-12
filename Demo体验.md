@@ -86,6 +86,7 @@
 }
 
 </style>
+## Demo体验
 小视频APP（Demo）提供完整的产品级交互界面和业务源码，帮助您快速上线类似“微视”、“快手”、“抖音”的短视频APP。您可以在下方卡片中获取 Demo 及源码，可参考 [SDK 集成方案](https://cloud.tencent.com/document/product/584/11638) 进行集成。
 
 <div class="preview-demo-section" id="demo-card">
@@ -144,4 +145,9 @@
       </div>
 	     </div>
 </div>  
+
+
+## Demo展示
+<img src="https://main.qcloudimg.com/raw/02c1c4fcbcfb6870d5c2804fb18cfec4.jpg"/>
+
 	 
